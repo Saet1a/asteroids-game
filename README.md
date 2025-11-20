@@ -22,7 +22,8 @@ A Python implementation of the classic arcade game "Asteroids,". This project de
 
 This project uses `uv` for dependency management, but it can also be run with standard `pip`.
 
-### Option 1: Using uv (Recommended)
+### Using uv 
 If you have `uv` installed:
 ```bash
 uv sync
+
